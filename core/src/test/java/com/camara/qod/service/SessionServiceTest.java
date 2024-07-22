@@ -55,7 +55,7 @@ import org.springframework.test.context.ActiveProfiles;
 class SessionServiceTest {
 
   @Autowired
-  private SessionService sessionService;
+  private SessionService sessionService;//justatest
 
   @Autowired
   private QodSessionH2Repository h2Repository;
