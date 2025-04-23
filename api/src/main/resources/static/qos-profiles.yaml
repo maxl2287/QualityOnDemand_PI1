@@ -485,8 +485,8 @@ components:
         publicPort:
           $ref: "#/components/schemas/Port"
       anyOf:
-        - required: [publicAddress, privateAddress]
-        - required: [publicAddress, publicPort]
+        - required: [ publicAddress, privateAddress ]
+        - required: [ publicAddress, publicPort ]
       example:
         {
           "publicAddress": "203.0.113.0",
