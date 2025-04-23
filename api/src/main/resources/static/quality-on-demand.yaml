@@ -17,7 +17,9 @@ info:
     # Relevant terms and definitions            
 
     * **QOD service endpoint**:
-    The URL pointing to the RESTful resource of the QoD API.
+    The URL pointing to the RESTful resource of the QoD API.               
+    
+    test
 
     * **Authentication**:
     Security access keys such as OAuth 2.0 client credentials used by client applications to invoke the QoD API.
